@@ -2,6 +2,6 @@
 {
 	public class Class1
 	{
-		public string asdasd = "1";
+		public string asdasd = "12";
 	}
 }
